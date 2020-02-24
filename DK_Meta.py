@@ -144,7 +144,7 @@ class DenmarkMeta():
         dict_varer=dict(zip(varenavn,varekode))
         return dict_varer 
 
-'''
+
 #MainTable example
 #=======================================
 #Id nummer skal bruges ved valg af tabel for næste niveau
@@ -156,8 +156,7 @@ for item in mintabel: print(item)
 #id og text for alle linier
 print('')
 print('Hele liste')
-for linie in mintabel: print(linie['id'],linie['description'])
-'''
+
 
 '''
 #Trade tables example
