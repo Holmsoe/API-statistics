@@ -121,7 +121,7 @@ mintabel=minstat.ForeignTradeMetaDict()
 #print(mintabel['variables'][3]['valueTexts'])
 '''
 
- 
+
 #print(minstat.CountryCodeNameDict(mintabel))        
 #print(minstat.CountryNameCodeDict(mintabel))
 #print(minstat.ProductCodeNameDict(mintabel))        

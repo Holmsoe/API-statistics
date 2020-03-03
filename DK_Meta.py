@@ -152,10 +152,10 @@ class DenmarkMeta():
 minstat=DenmarkMeta()
 mintabel=minstat.MainTables()
 #Hele liste
-for item in mintabel: print(item)
+#for item in mintabel: print(item)
 #id og text for alle linier
-print('')
-print('Hele liste')
+#print('')
+#print('Hele liste')
 
 
 '''

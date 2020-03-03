@@ -114,6 +114,6 @@ vare="25221000"  #brændt kalk
 #vare="25222000" #hydratkalk
 #vare="25182000" #brændt dolomit
 
-Norge(minperiode,vare)
+#Norge(minperiode,vare)
 #Sverige(minperiode,vare)
-#Danmark(minperiode,vare)
+Danmark(minperiode,vare)

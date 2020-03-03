@@ -175,6 +175,8 @@ class DenmarkTrade():
             df=df.loc[(df['TO']=='DK')  & (df['FROM']!='TOT')]
             df=df.round({'TON':1,'VALUE':0})
             dfplot=df.pivot(index='AAR',columns='FROM', values='TON')
+            
+            
             dfplot.to_excel('DKimport.xls')
             print(dfplot)
         
